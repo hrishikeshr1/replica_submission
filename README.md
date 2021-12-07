@@ -11,4 +11,4 @@
 * On hover leave text in leave button moves to center of box and scales up
 * On click leave changes color
 * Clicking on leave resets all options and speakers
->No internet connected/elctricity due to bad weather dealyed editing and uploading.
+>No internet connected/elctricity due to bad weather delayed editing and uploading.
