@@ -12,4 +12,3 @@
 * On hover leave text in leave button moves to center of box and scales up
 * On click leave changes color
 * Clicking on leave resets all options and speakers
->No internet connectivity/elctricity due to bad weather delayed editing and uploading.
